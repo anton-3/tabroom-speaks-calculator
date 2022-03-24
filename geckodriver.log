@@ -1,0 +1,227 @@
+1648062089765	geckodriver	INFO	Listening on 127.0.0.1:37111
+1648062089812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45007" "-no-remote" "-profile" "/tmp/rust_mozprofilegX2iUg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1648062093320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegX2iUg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45007/devtools/browser/dc45bc65-aafb-43df-9271-7ba87aa78f36
+1648062094255	Marionette	INFO	Listening on port 39993
+1648062094355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648062125101	geckodriver	INFO	Listening on 127.0.0.1:60073
+1648062125105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46245" "-no-remote" "-profile" "/tmp/rust_mozprofileCMEgfi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1648062125579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCMEgfi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46245/devtools/browser/a91de4a7-1f60-4cf4-9f0c-fe73dd0557b8
+1648062126474	Marionette	INFO	Listening on port 46583
+1648062126519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648062132843	Marionette	INFO	Stopped listening on port 46583
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1648062169633	Marionette	INFO	Stopped listening on port 39993
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648062603396	geckodriver	INFO	Listening on 127.0.0.1:40707
+1648062603399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57137" "-no-remote" "-profile" "/tmp/rust_mozprofileB7MtbU"
+*** You are running in headless mode.
+1648062603621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB7MtbU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57137/devtools/browser/17088821-568f-42c4-a566-9842f524dea9
+1648062604394	Marionette	INFO	Listening on port 40509
+1648062604412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648062607426	Marionette	INFO	Stopped listening on port 40509
+1648062617453	geckodriver	INFO	Listening on 127.0.0.1:33963
+1648062617457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48013" "-no-remote" "-profile" "/tmp/rust_mozprofile3TvHPm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1648062617933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3TvHPm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48013/devtools/browser/7f97dcfc-bbd6-4ef5-a25e-c709eb171db3
+1648062618863	Marionette	INFO	Listening on port 46311
+1648062618972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648062621983	Marionette	INFO	Stopped listening on port 46311
+1648064666233	geckodriver	INFO	Listening on 127.0.0.1:45519
+1648064666236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54763" "-no-remote" "-profile" "/tmp/rust_mozprofilepH4mBZ"
+*** You are running in headless mode.
+1648064666477	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepH4mBZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54763/devtools/browser/c613be05-375d-4285-9554-026b2406c857
+1648064667358	Marionette	INFO	Listening on port 34703
+1648064667451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648064687887	geckodriver	INFO	Listening on 127.0.0.1:43271
+1648064687890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37947" "-no-remote" "-profile" "/tmp/rust_mozprofilecWuYGK"
+*** You are running in headless mode.
+1648064688112	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecWuYGK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37947/devtools/browser/3488cc4c-ae55-4349-98e1-f4d440da6c7a
+1648064688947	Marionette	INFO	Listening on port 40453
+1648064689003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648064939777	geckodriver	INFO	Listening on 127.0.0.1:60655
+1648064939781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55451" "-no-remote" "-profile" "/tmp/rust_mozprofile1qEbxX"
+*** You are running in headless mode.
+1648064940050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1qEbxX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55451/devtools/browser/5a767ce7-103b-4f47-b987-4ad151237985
+1648064940933	Marionette	INFO	Listening on port 41141
+1648064940995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648064956514	geckodriver	INFO	Listening on 127.0.0.1:55255
+1648064956517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "53311" "-no-remote" "-profile" "/tmp/rust_mozprofileLWNs02"
+*** You are running in headless mode.
+1648064956747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLWNs02/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53311/devtools/browser/12931472-5984-4e0a-9159-b6dc1e34cd2d
+1648064957602	Marionette	INFO	Listening on port 33049
+1648064957631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648064965093	Marionette	INFO	Stopped listening on port 33049
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648065229691	geckodriver	INFO	Listening on 127.0.0.1:55265
+1648065229694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46429" "-no-remote" "-profile" "/tmp/rust_mozprofileaH6x7n"
+*** You are running in headless mode.
+1648065229912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaH6x7n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46429/devtools/browser/1ddd64b6-ab9b-4774-a3bc-ffc6349a6f81
+1648065230661	Marionette	INFO	Listening on port 46277
+1648065230706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648065232870	Marionette	INFO	Stopped listening on port 46277
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648067026077	geckodriver	INFO	Listening on 127.0.0.1:48075
+1648067026589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52505" "-no-remote" "-profile" "/tmp/rust_mozprofileUG1K9W"
+*** You are running in headless mode.
+1648067026813	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUG1K9W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52505/devtools/browser/8f762069-02c8-49c8-b805-ef302588baa3
+1648067027661	Marionette	INFO	Listening on port 33769
+1648067027709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067182308	geckodriver	INFO	Listening on 127.0.0.1:39537
+1648067182311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40751" "-no-remote" "-profile" "/tmp/rust_mozprofilexXukB6"
+*** You are running in headless mode.
+1648067182521	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexXukB6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40751/devtools/browser/92297f1b-4095-4a7d-8f85-96ca63e5dfeb
+1648067183373	Marionette	INFO	Listening on port 43881
+1648067183432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067211896	geckodriver	INFO	Listening on 127.0.0.1:60411
+1648067211899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43951" "-no-remote" "-profile" "/tmp/rust_mozprofileRQNzyf"
+*** You are running in headless mode.
+1648067212109	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRQNzyf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43951/devtools/browser/99a1e23d-6c68-48cf-8e9c-9d6d8b53e158
+1648067212939	Marionette	INFO	Listening on port 40077
+1648067213012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067215103	Marionette	INFO	Stopped listening on port 40077
+1648067260101	geckodriver	INFO	Listening on 127.0.0.1:59551
+1648067260104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56671" "-no-remote" "-profile" "/tmp/rust_mozprofileKNFP8N"
+*** You are running in headless mode.
+1648067260325	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKNFP8N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56671/devtools/browser/b5f86631-3d04-4a82-9fbf-c647248cd090
+1648067261185	Marionette	INFO	Listening on port 35289
+1648067261217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067263120	Marionette	INFO	Stopped listening on port 35289
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648067271809	geckodriver	INFO	Listening on 127.0.0.1:34621
+1648067271812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58349" "-no-remote" "-profile" "/tmp/rust_mozprofileq62Roe"
+*** You are running in headless mode.
+1648067272026	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq62Roe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58349/devtools/browser/3a6b1c71-b89a-4313-a92b-cd77a9e7d983
+1648067272803	Marionette	INFO	Listening on port 42987
+1648067272828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067275470	Marionette	INFO	Stopped listening on port 42987
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648067358330	geckodriver	INFO	Listening on 127.0.0.1:49999
+1648067358333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59967" "-no-remote" "-profile" "/tmp/rust_mozprofileyLgdUP"
+*** You are running in headless mode.
+1648067358546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyLgdUP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59967/devtools/browser/c9d9e0d9-3f56-422c-959f-e3ff42a6bb23
+1648067359339	Marionette	INFO	Listening on port 43403
+1648067359457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067363305	Marionette	INFO	Stopped listening on port 43403
+1648067419320	geckodriver	INFO	Listening on 127.0.0.1:57457
+1648067419323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44917" "-no-remote" "-profile" "/tmp/rust_mozprofilemqZAMO"
+*** You are running in headless mode.
+1648067419535	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemqZAMO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44917/devtools/browser/f1f325c1-6cd6-415a-8f44-c7acf613be06
+1648067420389	Marionette	INFO	Listening on port 44863
+1648067420444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067574356	geckodriver	INFO	Listening on 127.0.0.1:50919
+1648067574359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37229" "-no-remote" "-profile" "/tmp/rust_mozprofilew92mzd"
+*** You are running in headless mode.
+1648067574579	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew92mzd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37229/devtools/browser/49c36367-7589-472a-9bd2-1dee82eead79
+1648067575443	Marionette	INFO	Listening on port 42225
+1648067575473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067604235	geckodriver	INFO	Listening on 127.0.0.1:41155
+1648067604237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54001" "-no-remote" "-profile" "/tmp/rust_mozprofilewLXqn1"
+*** You are running in headless mode.
+1648067604452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewLXqn1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54001/devtools/browser/bc9ca934-bd2b-4173-be9d-77cd079716c4
+1648067605431	Marionette	INFO	Listening on port 41085
+1648067605450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648067610183	Marionette	INFO	Stopped listening on port 41085
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648068081567	geckodriver	INFO	Listening on 127.0.0.1:39103
+1648068081570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47663" "-no-remote" "-profile" "/tmp/rust_mozprofilerHx6bv"
+*** You are running in headless mode.
+1648068081791	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerHx6bv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47663/devtools/browser/d0eefc4c-a5a8-4f34-a4a0-925813ca5d46
+1648068082543	Marionette	INFO	Listening on port 34279
+1648068082586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648068084896	Marionette	INFO	Stopped listening on port 34279
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648068125464	geckodriver	INFO	Listening on 127.0.0.1:49537
+1648068125467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34377" "-no-remote" "-profile" "/tmp/rust_mozprofileW1mdJ8"
+*** You are running in headless mode.
+1648068125704	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW1mdJ8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34377/devtools/browser/2f84fb9c-1062-4260-9d0d-6055f5097698
+1648068126621	Marionette	INFO	Listening on port 40409
+1648068126680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648068129114	Marionette	INFO	Stopped listening on port 40409
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
