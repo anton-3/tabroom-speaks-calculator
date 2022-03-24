@@ -1,7 +1,3 @@
-# WAYS TO IMPROVE THIS
-# 1) handle mavs
-# 2) handle byes
-
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
