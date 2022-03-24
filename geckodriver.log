@@ -225,3 +225,668 @@ DevTools listening on ws://localhost:34377/devtools/browser/2f84fb9c-1062-4260-9
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1648089201305	geckodriver	INFO	Listening on 127.0.0.1:63198
+1648089204367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63199" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileERrCum"
+1648089204584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileERrCum\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63199/devtools/browser/72bc70af-c276-4e19-9dd9-f99152434cd0
+1648089206234	Marionette	INFO	Listening on port 63204
+1648089206418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PWindowGlobal::Msg_RawMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2074: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1648089287683	Marionette	INFO	Stopped listening on port 63204
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Exiting due to channel error.
+1648089305344	geckodriver	INFO	Listening on 127.0.0.1:63261
+1648089308422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63262" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileAUwMe3"
+1648089308640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileAUwMe3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63262/devtools/browser/04aa79ee-c41a-4c28-9510-6a93917133a7
+1648089310256	Marionette	INFO	Listening on port 63267
+1648089310488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648089427841	Marionette	INFO	Stopped listening on port 63267
+1648089440755	geckodriver	INFO	Listening on 127.0.0.1:63340
+1648089443819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63341" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileDyL5R6"
+*** You are running in headless mode.
+1648089444010	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileDyL5R6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63341/devtools/browser/bf519c78-5b64-494e-a871-f81b1727f21f
+1648089444775	Marionette	INFO	Listening on port 63346
+1648089444841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648089899267	Marionette	INFO	Stopped listening on port 63346
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648092626737	geckodriver	INFO	Listening on 127.0.0.1:61029
+1648092629808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61030" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileVghAkt"
+*** You are running in headless mode.
+1648092629999	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileVghAkt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61030/devtools/browser/86c4f743-5366-4496-b6ee-8bd01cbc3900
+1648092630786	Marionette	INFO	Listening on port 61036
+1648092630840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648092662641	geckodriver	INFO	Listening on 127.0.0.1:61114
+1648092665732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61115" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilerYgHoj"
+*** You are running in headless mode.
+1648092665924	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilerYgHoj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61115/devtools/browser/90f1a647-4f58-483a-bba4-8b2dfd478868
+1648092666742	Marionette	INFO	Listening on port 61128
+1648092666779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61191
+1648092699369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61192" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileWHPkRw"
+*** You are running in headless mode.
+1648092699562	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileWHPkRw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61192/devtools/browser/32449c37-857e-4c1b-9246-ffdfcebc0be1
+1648092700378	Marionette	INFO	Listening on port 61197
+1648092700395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61317
+1648092852595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61318" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileewKLaE"
+*** You are running in headless mode.
+1648092852787	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileewKLaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61318/devtools/browser/844af3b4-bb0f-435f-8f0b-5ec7c4e230c4
+1648092853598	Marionette	INFO	Listening on port 61323
+1648092853614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61383
+1648092873358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61384" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilePZac5g"
+*** You are running in headless mode.
+1648092873549	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilePZac5g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61384/devtools/browser/fefa10ad-8337-4b47-b5c6-28d653f529b6
+1648092874338	Marionette	INFO	Listening on port 61389
+1648092874400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:61452
+1648092900496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61453" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilez5ry8m"
+*** You are running in headless mode.
+1648092900687	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilez5ry8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61453/devtools/browser/379bc36a-c1be-44d8-9f35-4e233bc48268
+1648092901482	Marionette	INFO	Listening on port 61458
+1648092901517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648092912667	Marionette	INFO	Stopped listening on port 61458
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648092990963	geckodriver	INFO	Listening on 127.0.0.1:61537
+1648092994030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61538" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileiGXNZB"
+*** You are running in headless mode.
+1648092994223	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileiGXNZB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61538/devtools/browser/51598d6f-0404-43d2-aa40-0a39ce0c2881
+1648092995156	Marionette	INFO	Listening on port 61543
+1648092995566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1648093006676	Marionette	INFO	Stopped listening on port 61543
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648093800809	geckodriver	INFO	Listening on 127.0.0.1:64087
+1648093803882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64088" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilem7uCTG"
+*** You are running in headless mode.
+1648093804072	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilem7uCTG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64088/devtools/browser/fd71acda-0d75-42c0-9830-bf091cc44e40
+1648093804860	Marionette	INFO	Listening on port 64093
+1648093804911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64160
+1648093835067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64161" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilersRqCP"
+*** You are running in headless mode.
+1648093835261	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilersRqCP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64161/devtools/browser/78b142f5-1431-4878-b1d6-44cd7aab9b8a
+1648093836061	Marionette	INFO	Listening on port 64166
+1648093836096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1648093845967	Marionette	INFO	Stopped listening on port 64166
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648093905098	geckodriver	INFO	Listening on 127.0.0.1:64254
+1648093908173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64255" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileorPGHl"
+*** You are running in headless mode.
+1648093908366	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileorPGHl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64255/devtools/browser/08c89dc8-81a0-45ec-aa53-f995f6153947
+1648093909241	Marionette	INFO	Listening on port 64260
+1648093909710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648093917508	Marionette	INFO	Stopped listening on port 64260
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648096753686	geckodriver	INFO	Listening on 127.0.0.1:52409
+1648096756757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52410" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileCiaJc0"
+*** You are running in headless mode.
+1648096756965	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileCiaJc0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52410/devtools/browser/d98a888c-61ee-41f9-9b43-75236ce59da2
+1648096757812	Marionette	INFO	Listening on port 52415
+1648096758291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648096770845	Marionette	INFO	Stopped listening on port 52415
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648097165446	geckodriver	INFO	Listening on 127.0.0.1:49282
+1648097168511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49283" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileiNVmm2"
+*** You are running in headless mode.
+1648097168709	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileiNVmm2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49283/devtools/browser/5a527543-bc43-4322-9e8c-ac5aa9d2f482
+1648097169594	Marionette	INFO	Listening on port 49288
+1648097170042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648097177680	Marionette	INFO	Stopped listening on port 49288
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648097193891	geckodriver	INFO	Listening on 127.0.0.1:49353
+1648097196953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49354" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileKJ8zZR"
+*** You are running in headless mode.
+1648097197152	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileKJ8zZR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49354/devtools/browser/0ee36d18-4740-42e0-ab25-01950643805f
+1648097197974	Marionette	INFO	Listening on port 49359
+1648097197993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648097206736	Marionette	INFO	Stopped listening on port 49359
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648097352178	geckodriver	INFO	Listening on 127.0.0.1:49433
+1648097355242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49434" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilevQtIH4"
+*** You are running in headless mode.
+1648097355440	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilevQtIH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49434/devtools/browser/fa20604b-d967-45ed-a59a-819bb078804b
+1648097356259	Marionette	INFO	Listening on port 49439
+1648097356762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648097363223	Marionette	INFO	Stopped listening on port 49439
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648099353432	geckodriver	INFO	Listening on 127.0.0.1:63214
+1648099356505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63215" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileF7pywR"
+*** You are running in headless mode.
+1648099356702	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileF7pywR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63215/devtools/browser/e96be6bd-b853-485f-aebe-a15d62d1d685
+1648099357531	Marionette	INFO	Listening on port 63220
+1648099358036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648099370831	Marionette	INFO	Stopped listening on port 63220
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648099582121	geckodriver	INFO	Listening on 127.0.0.1:63292
+1648099585197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63293" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileRm9H45"
+*** You are running in headless mode.
+1648099585390	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileRm9H45\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63293/devtools/browser/5015504d-48a2-4ea1-8056-35d58102289d
+1648099586201	Marionette	INFO	Listening on port 63298
+1648099586231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648099655507	Marionette	INFO	Stopped listening on port 63298
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648100080485	geckodriver	INFO	Listening on 127.0.0.1:63405
+1648100083547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63406" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilestSy9P"
+*** You are running in headless mode.
+1648100083747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilestSy9P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63406/devtools/browser/4189911f-46f1-4711-bf5c-bc45dac9470a
+1648100084540	Marionette	INFO	Listening on port 63411
+1648100084579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648100141506	Marionette	INFO	Stopped listening on port 63411
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648100281518	geckodriver	INFO	Listening on 127.0.0.1:63489
+1648100284596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63490" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilexoiLbQ"
+*** You are running in headless mode.
+1648100284790	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilexoiLbQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63490/devtools/browser/a0d2af99-c7e5-48db-a56f-1d79de422af6
+1648100285613	Marionette	INFO	Listening on port 63495
+1648100285631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648100319879	Marionette	INFO	Stopped listening on port 63495
+1648100817696	geckodriver	INFO	Listening on 127.0.0.1:56794
+1648100820755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56795" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofile78vdin"
+1648100820950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofile78vdin\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56795/devtools/browser/d417ff7f-4d30-486b-9cdb-4ed8ba93b883
+1648100822519	Marionette	INFO	Listening on port 56804
+1648100822813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648100992550	geckodriver	INFO	Listening on 127.0.0.1:56883
+1648100995611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56884" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileuCtW30"
+1648100995811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileuCtW30\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56884/devtools/browser/f46db2cb-4f5c-49d7-a6ae-4034a2ef857b
+1648100997393	Marionette	INFO	Listening on port 56890
+1648100997662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.tabroom.com"
+1648101305385	Marionette	INFO	Stopped listening on port 56890
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1648102106742	geckodriver	INFO	Listening on 127.0.0.1:57050
+1648102109814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57051" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilef9iqW1"
+*** You are running in headless mode.
+1648102110009	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilef9iqW1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57051/devtools/browser/71d201fa-1942-44d4-9359-ebeb79b43ef0
+1648102110786	Marionette	INFO	Listening on port 57056
+1648102110833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57148
+1648102437595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57149" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilezkwwGd"
+*** You are running in headless mode.
+1648102437786	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilezkwwGd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57149/devtools/browser/0e7a75a5-3c2d-4008-a210-7e170c4840a7
+1648102438623	Marionette	INFO	Listening on port 57154
+1648102439129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648102450586	Marionette	INFO	Stopped listening on port 57154
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648102500808	geckodriver	INFO	Listening on 127.0.0.1:57218
+1648102503876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57219" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilewrjwKy"
+*** You are running in headless mode.
+1648102504071	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilewrjwKy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57219/devtools/browser/0fe495b1-b330-47ae-bfb4-1788e8ef4033
+1648102504944	Marionette	INFO	Listening on port 57224
+1648102505400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648102512340	Marionette	INFO	Stopped listening on port 57224
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648103733245	geckodriver	INFO	Listening on 127.0.0.1:57409
+1648103736315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57410" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilefICkgi"
+*** You are running in headless mode.
+1648103736507	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofilefICkgi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57410/devtools/browser/6e2d1a66-7f6c-4c2c-a280-fcc5d2ebf949
+1648103737327	Marionette	INFO	Listening on port 57417
+1648103737340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648103747036	Marionette	INFO	Stopped listening on port 57417
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648104067292	geckodriver	INFO	Listening on 127.0.0.1:57506
+1648104070349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57507" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileQYeSed"
+*** You are running in headless mode.
+1648104070542	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileQYeSed\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57507/devtools/browser/8867e4d7-9166-4f4e-934d-47fdba97a7e7
+1648104071369	Marionette	INFO	Listening on port 57512
+1648104071386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648104142727	Marionette	INFO	Stopped listening on port 57512
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648105307753	geckodriver	INFO	Listening on 127.0.0.1:52872
+1648105310826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52873" "-no-remote" "-profile" "C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileH1pYit"
+*** You are running in headless mode.
+1648105311020	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anton\\AppData\\Local\\Temp\\rust_mozprofileH1pYit\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52873/devtools/browser/d698ca98-8dd5-40ec-9336-84f87240e808
+1648105311842	Marionette	INFO	Listening on port 52878
+1648105312349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648105383144	Marionette	INFO	Stopped listening on port 52878
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
