@@ -15,9 +15,9 @@ options = Options()
 options.headless = True
 driver = webdriver.Firefox(options=options)
 
-link = get_link()
+tabroom_link = get_link()
 
-driver.get(link)
+driver.get(tabroom_link)
 elements = driver.find_elements(by=By.CSS_SELECTOR, value='.marno.marvert') # this selects all the <a> elements that have links to each team's results page
 
 team_links = []
@@ -25,9 +25,10 @@ team_links = []
 for element in elements:
   team_links.append(element.get_attribute('href'))
 
-# if there's an odd number of teams in the tournament there's an empty link at the end, get rid of that
-if team_links[-1].endswith('='):
-  team_links.pop(-1)
+# sometimes there are empty links when teams get byes, so get rid of those
+for index, team_link in enumerate(team_links):
+  if team_link.endswith('='):
+    team_links.pop(index)
 
 tournament_name = driver.find_element(by=By.CSS_SELECTOR, value='h2').text
 
@@ -54,9 +55,7 @@ for team_link in team_links:
   if len(points_elements) == 0:
     continue
 
-  for points_element in points_elements:
-    # if I pass index into the for loop then it breaks and I'm not good enough at python to know why
-    index = points_elements.index(points_element)
+  for index, points_element in enumerate(points_elements):
     # speaker points alternate between speakers in the points_elements list
     # so if index is even, add it to speaker points list for first partner aka names[0]
     # and if index is odd, add it to speaker points list for second partner aka names[1]
@@ -74,15 +73,13 @@ for team_link in team_links:
   for name in names:
     print(f'{name}: {teams_info[team_code][name]}')
 
-  # print(f'{current_team}) {team_code}\n{names[0]}: {teams_info[team_code][names[0]]}\n{names[1]}: {teams_info[team_code][names[1]]}\n')
-
 driver.close()
 
 print('\nSaving to a spreadsheet...')
 
 wb = load_workbook('speakscalculatortemplate.xlsx')
 ws = wb.active
-active_row = 2 # start entering on 2, increment after entering each person's points
+active_row = 2 # start entering data on 2, increment after entering each person's points
 
 # for every team in the tournament
 for team_code in team_codes:
